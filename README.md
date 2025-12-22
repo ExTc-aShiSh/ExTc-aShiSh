@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PCB design <br>👯 I’m looking to collaborate on any fun project<br>🤝 I’m looking for help with learning new stuff <br>🌱 I’m currently learning KiCAD,Computer Vision<br>💬 Ask me about anything you wish <br>
+✨ I love music and thats quite visible in screenshots I post in my repos(Do look for them) <br>🔭 I’m currently working on PCB design <br>👯 I’m looking to collaborate on any fun project<br>🤝 I’m looking for help with learning new stuff <br>🌱 I’m currently learning KiCAD,Computer Vision<br> 
 
 
 ## 🌐 Socials:
