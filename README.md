@@ -1,5 +1,7 @@
 #  About Me:
-✨ I love music and thats quite visible in screenshots I post in my repos(Do look for them) <br>🔭 I’m currently working on PCB design <br>👯 I’m looking to collaborate on any fun project<br>🤝 I’m looking for help with learning new stuff <br>🌱 I’m currently learning KiCAD,Computer Vision<br> 
+I’m Ashish, an engineering student passionate about electronics, embedded systems, and PCB design. I enjoy designing circuits, building hardware projects, and converting concepts into reliable, real-world implementations.
+
+I regularly work with KiCad for schematic and PCB design and experiment with ESP32 and embedded systems. This GitHub documents my projects, learning process, and hands-on engineering work.
 
 
 ## 🌐 Socials:
